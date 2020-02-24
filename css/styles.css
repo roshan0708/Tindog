@@ -163,6 +163,10 @@ h2 {
   background-color: #fff;
 }
 
+#footer .container-fluid{
+  padding: 1%;
+}
+
 .footer-icon {
   margin: 2% 1%;
 }
